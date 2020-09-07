@@ -1,0 +1,320 @@
+{
+	"textures": [
+		{
+			"image": "knipsekassa.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 853,
+				"h": 1123
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Flipperleft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 35
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 57,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Flipperright.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 35
+					},
+					"frame": {
+						"x": 60,
+						"y": 1,
+						"w": 57,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Coin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 50,
+						"h": 48
+					},
+					"frame": {
+						"x": 119,
+						"y": 1,
+						"w": 50,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Slot1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 86
+					},
+					"frame": {
+						"x": 171,
+						"y": 1,
+						"w": 63,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Slot2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 86
+					},
+					"frame": {
+						"x": 236,
+						"y": 1,
+						"w": 63,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Slot3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 86
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 63,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Slot4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 86
+					},
+					"frame": {
+						"x": 366,
+						"y": 1,
+						"w": 63,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Slot5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 86
+					},
+					"frame": {
+						"x": 431,
+						"y": 1,
+						"w": 63,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Slot6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 86
+					},
+					"frame": {
+						"x": 496,
+						"y": 1,
+						"w": 63,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Slot7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 86
+					},
+					"frame": {
+						"x": 561,
+						"y": 1,
+						"w": 63,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Hand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 394
+					},
+					"frame": {
+						"x": 626,
+						"y": 1,
+						"w": 187,
+						"h": 394
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "Lines.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 851,
+						"h": 725
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 851,
+						"h": 725
+					},
+					"frame": {
+						"x": 1,
+						"y": 397,
+						"w": 851,
+						"h": 725
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5275a288f62c98a61702e2b8ab825663:e9037e04e39d84810c24fae6926df4dd:9c3eee3770d45109b152fbee92793fbf$"
+	}
+}
